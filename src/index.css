@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-emerald-accent: #10b981;
+  --color-emerald-accent-hover: #059669;
+  --color-rose-fail: #f43f5e;
+  --color-rose-fail-hover: #e11d48;
+  --color-amber-mid: #f59e0b;
+  --color-slate-bg: #0f172a;
+  --color-slate-card: #1e293b;
+  --color-slate-border: #334155;
+  --color-slate-text: #94a3b8;
+  --color-white-heading: #f1f5f9;
+}

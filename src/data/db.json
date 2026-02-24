@@ -1,0 +1,2409 @@
+{
+  "youtubers": [
+    {
+      "id": "hasheur",
+      "name": "Hasheur",
+      "channelId": "UChlTcWDE8gd4tsl_L727NrQ",
+      "subscribers": "810K",
+      "description": "High-quality educational crypto content with balanced macro analysis.",
+      "calls": [
+        {
+          "id": "hasheur-001",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-03-03",
+          "sentimentAvg": -0.307,
+          "priceMovePct": -8.61,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-002",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-03",
+          "sentimentAvg": 0.12,
+          "priceMovePct": -12.61,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-003",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-03",
+          "sentimentAvg": 0.0,
+          "priceMovePct": -23.17,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-004",
+          "token": "SUI",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-03",
+          "sentimentAvg": 0.0,
+          "priceMovePct": -22.5,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-005",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-17",
+          "sentimentAvg": 0.066,
+          "priceMovePct": 1.43,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-006",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-31",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 0.25,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-007",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-04-07",
+          "sentimentAvg": -0.143,
+          "priceMovePct": 9.07,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-008",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-04-07",
+          "sentimentAvg": 0.084,
+          "priceMovePct": 4.52,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-009",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-04-07",
+          "sentimentAvg": 0.5,
+          "priceMovePct": 24.94,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-010",
+          "token": "SUI",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-04-07",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 22.4,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-011",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-04-21",
+          "sentimentAvg": -1.0,
+          "priceMovePct": 11.25,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-012",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-04-21",
+          "sentimentAvg": -1.0,
+          "priceMovePct": 14.87,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-013",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-04-28",
+          "sentimentAvg": -0.25,
+          "priceMovePct": 2.25,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-014",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-04-28",
+          "sentimentAvg": 1.0,
+          "priceMovePct": 2.28,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-015",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-05-05",
+          "sentimentAvg": -0.139,
+          "priceMovePct": 10.92,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-016",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-12",
+          "sentimentAvg": 0.203,
+          "priceMovePct": -0.75,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-017",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-05-12",
+          "sentimentAvg": -0.325,
+          "priceMovePct": -1.29,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-018",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-12",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -4.0,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-019",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-26",
+          "sentimentAvg": 0.227,
+          "priceMovePct": -3.83,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-020",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-05-26",
+          "sentimentAvg": -0.395,
+          "priceMovePct": -10.43,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-021",
+          "token": "SUI",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-05-26",
+          "sentimentAvg": -0.8,
+          "priceMovePct": -9.47,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-022",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-02",
+          "sentimentAvg": 0.433,
+          "priceMovePct": -0.03,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-023",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-02",
+          "sentimentAvg": 0.35,
+          "priceMovePct": -0.47,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-024",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-02",
+          "sentimentAvg": 0.429,
+          "priceMovePct": -4.79,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-025",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-06-09",
+          "sentimentAvg": -0.088,
+          "priceMovePct": -0.2,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-026",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-06-09",
+          "sentimentAvg": -0.112,
+          "priceMovePct": 1.01,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-027",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-16",
+          "sentimentAvg": 0.61,
+          "priceMovePct": -3.81,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-028",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-16",
+          "sentimentAvg": 0.667,
+          "priceMovePct": -10.88,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-029",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-16",
+          "sentimentAvg": 0.637,
+          "priceMovePct": -12.42,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-030",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-23",
+          "sentimentAvg": 0.5,
+          "priceMovePct": 6.42,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-031",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-06-30",
+          "sentimentAvg": -0.348,
+          "priceMovePct": -0.17,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-032",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": 0.142,
+          "priceMovePct": -1.1,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-033",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": 0.297,
+          "priceMovePct": -0.46,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-034",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": 0.444,
+          "priceMovePct": 1.28,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-035",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": 0.142,
+          "priceMovePct": -0.98,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-036",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": 0.297,
+          "priceMovePct": -2.34,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-037",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": 0.444,
+          "priceMovePct": 1.24,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-038",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.152,
+          "priceMovePct": -1.07,
+          "status": "fail"
+        },
+        {
+          "id": "hasheur-039",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": -0.008,
+          "priceMovePct": 0.49,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-040",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.053,
+          "priceMovePct": -0.83,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-041",
+          "token": "ENA",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": -1.0,
+          "priceMovePct": -8.33,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-042",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.152,
+          "priceMovePct": -0.44,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-043",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": -0.008,
+          "priceMovePct": 0.18,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-044",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.053,
+          "priceMovePct": 0.82,
+          "status": "success"
+        },
+        {
+          "id": "hasheur-045",
+          "token": "ENA",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": -1.0,
+          "priceMovePct": -9.68,
+          "status": "success"
+        }
+      ],
+      "votes": {
+        "trust": 1020,
+        "noWay": 704
+      }
+    },
+    {
+      "id": "cryptolyze",
+      "name": "Cryptolyze",
+      "channelId": "UCuXgThwkFpefb41aKWKqrOw",
+      "subscribers": "120K",
+      "description": "Daily crypto market analysis with deep fundamental and technical insights.",
+      "calls": [
+        {
+          "id": "cryptolyze-001",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-25",
+          "sentimentAvg": 0.058,
+          "priceMovePct": -4.07,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-002",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-25",
+          "sentimentAvg": 0.12,
+          "priceMovePct": -8.47,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-003",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-25",
+          "sentimentAvg": 0.39,
+          "priceMovePct": -1.54,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-004",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-09-01",
+          "sentimentAvg": 0.189,
+          "priceMovePct": 1.81,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-005",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-01",
+          "sentimentAvg": 0.463,
+          "priceMovePct": -2.64,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-006",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-01",
+          "sentimentAvg": 0.33,
+          "priceMovePct": -0.35,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-007",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-08",
+          "sentimentAvg": 0.411,
+          "priceMovePct": 4.35,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-008",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-08",
+          "sentimentAvg": 0.526,
+          "priceMovePct": 8.45,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-009",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-08",
+          "sentimentAvg": 0.354,
+          "priceMovePct": 17.5,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-010",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-09-15",
+          "sentimentAvg": -0.009,
+          "priceMovePct": 0.3,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-011",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-15",
+          "sentimentAvg": 0.578,
+          "priceMovePct": -2.78,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-012",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-09-15",
+          "sentimentAvg": -0.087,
+          "priceMovePct": -0.44,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-013",
+          "token": "ENA",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-09-15",
+          "sentimentAvg": -1.0,
+          "priceMovePct": -9.46,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-014",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-09-22",
+          "sentimentAvg": 0.162,
+          "priceMovePct": -4.9,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-015",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-22",
+          "sentimentAvg": 0.278,
+          "priceMovePct": -9.76,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-016",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-09-22",
+          "sentimentAvg": 0.044,
+          "priceMovePct": -13.98,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-017",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-29",
+          "sentimentAvg": 0.6,
+          "priceMovePct": 9.13,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-018",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-29",
+          "sentimentAvg": 0.629,
+          "priceMovePct": 8.35,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-019",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-29",
+          "sentimentAvg": 0.396,
+          "priceMovePct": 8.16,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-020",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-22",
+          "sentimentAvg": 0.045,
+          "priceMovePct": -0.87,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-021",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-02",
+          "sentimentAvg": -0.149,
+          "priceMovePct": -9.93,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-022",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-02",
+          "sentimentAvg": 0.167,
+          "priceMovePct": -7.86,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-023",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": 0.326,
+          "priceMovePct": -1.1,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-024",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": -0.587,
+          "priceMovePct": -0.46,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-025",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": -0.5,
+          "priceMovePct": 1.28,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-026",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": 0.186,
+          "priceMovePct": -0.98,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-027",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": -0.587,
+          "priceMovePct": -2.34,
+          "status": "success"
+        },
+        {
+          "id": "cryptolyze-028",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": -0.5,
+          "priceMovePct": 1.24,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-029",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.327,
+          "priceMovePct": -1.07,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-030",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.788,
+          "priceMovePct": 0.49,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-031",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.383,
+          "priceMovePct": -0.83,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-032",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.327,
+          "priceMovePct": -0.44,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-033",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.788,
+          "priceMovePct": 0.18,
+          "status": "fail"
+        },
+        {
+          "id": "cryptolyze-034",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.383,
+          "priceMovePct": 0.82,
+          "status": "fail"
+        }
+      ],
+      "votes": {
+        "trust": 126,
+        "noWay": 117
+      }
+    },
+    {
+      "id": "crypto-matrix",
+      "name": "Crypto Matrix",
+      "channelId": "UCefQC4Y-X9MBRuYBKc2waiQ",
+      "subscribers": "95K",
+      "description": "Live trading streams and daily crypto news coverage.",
+      "calls": [
+        {
+          "id": "crypto-matrix-001",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-10-20",
+          "sentimentAvg": 0.212,
+          "priceMovePct": 2.76,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-002",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-10-20",
+          "sentimentAvg": 0.039,
+          "priceMovePct": -0.82,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-003",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-03",
+          "sentimentAvg": 0.145,
+          "priceMovePct": -7.56,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-004",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-03",
+          "sentimentAvg": 0.0,
+          "priceMovePct": -13.01,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-005",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-03",
+          "sentimentAvg": 0.286,
+          "priceMovePct": -15.51,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-006",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-10",
+          "sentimentAvg": 0.084,
+          "priceMovePct": -8.79,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-007",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-10",
+          "sentimentAvg": 0.498,
+          "priceMovePct": -11.36,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-008",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-10",
+          "sentimentAvg": 0.666,
+          "priceMovePct": -15.02,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-009",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-17",
+          "sentimentAvg": 0.042,
+          "priceMovePct": -10.3,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-010",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-17",
+          "sentimentAvg": 0.073,
+          "priceMovePct": -10.74,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-011",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-11-17",
+          "sentimentAvg": -0.683,
+          "priceMovePct": -7.18,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-012",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.168,
+          "priceMovePct": 4.68,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-013",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.435,
+          "priceMovePct": 6.84,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-014",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.333,
+          "priceMovePct": 4.0,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-015",
+          "token": "NEXO",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.5,
+          "priceMovePct": 2.13,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-016",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": 0.0,
+          "priceMovePct": -1.28,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-017",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 1.55,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-018",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": -0.179,
+          "priceMovePct": -1.1,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-019",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": 0.222,
+          "priceMovePct": -0.46,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-020",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": -0.054,
+          "priceMovePct": 1.28,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-021",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": -0.179,
+          "priceMovePct": -0.98,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-022",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": 0.222,
+          "priceMovePct": -2.34,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-023",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": -0.054,
+          "priceMovePct": 1.24,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-024",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": -0.057,
+          "priceMovePct": -1.07,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-025",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.472,
+          "priceMovePct": 0.49,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-026",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.156,
+          "priceMovePct": -0.83,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-027",
+          "token": "NEXO",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 1.0,
+          "priceMovePct": 8.43,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-028",
+          "token": "SUI",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -2.06,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-029",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": -0.057,
+          "priceMovePct": -0.44,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-030",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.472,
+          "priceMovePct": 0.18,
+          "status": "fail"
+        },
+        {
+          "id": "crypto-matrix-031",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.156,
+          "priceMovePct": 0.82,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-032",
+          "token": "NEXO",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 1.0,
+          "priceMovePct": 7.41,
+          "status": "success"
+        },
+        {
+          "id": "crypto-matrix-033",
+          "token": "SUI",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -0.95,
+          "status": "fail"
+        }
+      ],
+      "votes": {
+        "trust": 102,
+        "noWay": 91
+      }
+    },
+    {
+      "id": "journal-du-coin",
+      "name": "Journal du Coin",
+      "channelId": "UC7qnB0XxzOEwWWn9Q6HPmCw",
+      "subscribers": "150K",
+      "description": "Leading French crypto news outlet with daily market reports.",
+      "calls": [
+        {
+          "id": "journal-du-coin-001",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-03",
+          "sentimentAvg": 0.022,
+          "priceMovePct": -8.61,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-002",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-03-03",
+          "sentimentAvg": -0.5,
+          "priceMovePct": -12.61,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-003",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-03",
+          "sentimentAvg": 0.028,
+          "priceMovePct": -23.17,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-004",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-10",
+          "sentimentAvg": 0.115,
+          "priceMovePct": 4.51,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-005",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-10",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 7.27,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-006",
+          "token": "SUI",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-10",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 2.62,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-007",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-03-10",
+          "sentimentAvg": 0.541,
+          "priceMovePct": -3.84,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-008",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-17",
+          "sentimentAvg": -0.053,
+          "priceMovePct": 1.43,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-009",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-17",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 4.86,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-010",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-24",
+          "sentimentAvg": -0.144,
+          "priceMovePct": -3.62,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-011",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-03-24",
+          "sentimentAvg": -0.5,
+          "priceMovePct": -8.58,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-012",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-03-31",
+          "sentimentAvg": 0.147,
+          "priceMovePct": 1.51,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-013",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-04-07",
+          "sentimentAvg": -0.209,
+          "priceMovePct": 9.07,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-014",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-04-14",
+          "sentimentAvg": 0.014,
+          "priceMovePct": 1.83,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-015",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-04-21",
+          "sentimentAvg": 0.031,
+          "priceMovePct": 11.25,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-016",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-04-21",
+          "sentimentAvg": -0.8,
+          "priceMovePct": 14.87,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-017",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-04-21",
+          "sentimentAvg": -0.45,
+          "priceMovePct": 8.37,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-018",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-04-28",
+          "sentimentAvg": -0.001,
+          "priceMovePct": 2.25,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-019",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-04-28",
+          "sentimentAvg": -0.5,
+          "priceMovePct": 2.28,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-020",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-05",
+          "sentimentAvg": 0.612,
+          "priceMovePct": 10.92,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-021",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-05",
+          "sentimentAvg": 0.5,
+          "priceMovePct": 42.89,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-022",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-05",
+          "sentimentAvg": 0.833,
+          "priceMovePct": 23.17,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-023",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-12",
+          "sentimentAvg": 0.402,
+          "priceMovePct": -0.75,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-024",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-05-12",
+          "sentimentAvg": 0.0,
+          "priceMovePct": -4.0,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-025",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-12",
+          "sentimentAvg": 0.588,
+          "priceMovePct": -1.29,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-026",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-05-19",
+          "sentimentAvg": 0.427,
+          "priceMovePct": 1.7,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-027",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-05-19",
+          "sentimentAvg": 0.036,
+          "priceMovePct": 2.6,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-028",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-05-19",
+          "sentimentAvg": -0.333,
+          "priceMovePct": 2.6,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-029",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-05-26",
+          "sentimentAvg": 0.129,
+          "priceMovePct": -3.83,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-030",
+          "token": "ENA",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-05-26",
+          "sentimentAvg": 0.0,
+          "priceMovePct": -18.42,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-031",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-05-26",
+          "sentimentAvg": -0.25,
+          "priceMovePct": -10.43,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-032",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-02",
+          "sentimentAvg": 0.306,
+          "priceMovePct": -0.03,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-033",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-02",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -4.79,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-034",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-06-09",
+          "sentimentAvg": 0.018,
+          "priceMovePct": -0.2,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-035",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-16",
+          "sentimentAvg": 0.268,
+          "priceMovePct": -3.81,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-036",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-16",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -12.42,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-037",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-23",
+          "sentimentAvg": 0.599,
+          "priceMovePct": 6.42,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-038",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-23",
+          "sentimentAvg": 1.0,
+          "priceMovePct": 14.39,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-039",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-30",
+          "sentimentAvg": 0.228,
+          "priceMovePct": -0.17,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-040",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-30",
+          "sentimentAvg": 0.264,
+          "priceMovePct": 0.59,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-041",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-06-30",
+          "sentimentAvg": 0.5,
+          "priceMovePct": -3.73,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-042",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-07",
+          "sentimentAvg": 0.376,
+          "priceMovePct": 7.51,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-043",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-07",
+          "sentimentAvg": 0.75,
+          "priceMovePct": 14.45,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-044",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-07-07",
+          "sentimentAvg": -0.114,
+          "priceMovePct": 5.63,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-045",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-14",
+          "sentimentAvg": 0.647,
+          "priceMovePct": -1.02,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-046",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-14",
+          "sentimentAvg": 0.604,
+          "priceMovePct": 20.85,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-047",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-14",
+          "sentimentAvg": 0.589,
+          "priceMovePct": 9.72,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-048",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-07-21",
+          "sentimentAvg": 0.158,
+          "priceMovePct": 0.6,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-049",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-21",
+          "sentimentAvg": 0.533,
+          "priceMovePct": -0.43,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-050",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-21",
+          "sentimentAvg": 0.553,
+          "priceMovePct": 2.18,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-051",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-07-28",
+          "sentimentAvg": -0.256,
+          "priceMovePct": -5.75,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-052",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-07-28",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -12.08,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-053",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-07-28",
+          "sentimentAvg": -0.227,
+          "priceMovePct": -15.93,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-054",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-04",
+          "sentimentAvg": 0.2,
+          "priceMovePct": 2.02,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-055",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-04",
+          "sentimentAvg": 0.469,
+          "priceMovePct": 21.96,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-056",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-04",
+          "sentimentAvg": 0.042,
+          "priceMovePct": 11.42,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-057",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-11",
+          "sentimentAvg": 0.393,
+          "priceMovePct": -1.48,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-058",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-11",
+          "sentimentAvg": -0.14,
+          "priceMovePct": 4.07,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-059",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-11",
+          "sentimentAvg": 0.15,
+          "priceMovePct": 3.75,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-060",
+          "token": "SUI",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-11",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -2.58,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-061",
+          "token": "ENA",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-11",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -8.75,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-062",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-18",
+          "sentimentAvg": 0.721,
+          "priceMovePct": -1.86,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-063",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-18",
+          "sentimentAvg": 0.488,
+          "priceMovePct": 6.39,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-064",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-18",
+          "sentimentAvg": 0.195,
+          "priceMovePct": 6.46,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-065",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-25",
+          "sentimentAvg": 0.389,
+          "priceMovePct": -4.07,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-066",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-08-25",
+          "sentimentAvg": 0.142,
+          "priceMovePct": -8.47,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-067",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-08-25",
+          "sentimentAvg": 0.707,
+          "priceMovePct": -1.54,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-068",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-09-01",
+          "sentimentAvg": -0.007,
+          "priceMovePct": 1.81,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-069",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-01",
+          "sentimentAvg": 0.416,
+          "priceMovePct": -2.64,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-070",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-01",
+          "sentimentAvg": 0.464,
+          "priceMovePct": -0.35,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-071",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-09-08",
+          "sentimentAvg": 0.173,
+          "priceMovePct": 4.35,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-072",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-08",
+          "sentimentAvg": 0.403,
+          "priceMovePct": 8.45,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-073",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-08",
+          "sentimentAvg": 0.778,
+          "priceMovePct": 17.5,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-074",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-15",
+          "sentimentAvg": 0.404,
+          "priceMovePct": 0.3,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-075",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-15",
+          "sentimentAvg": 0.314,
+          "priceMovePct": -2.78,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-076",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-22",
+          "sentimentAvg": 0.425,
+          "priceMovePct": -4.9,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-077",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-22",
+          "sentimentAvg": 0.75,
+          "priceMovePct": -9.76,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-078",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-29",
+          "sentimentAvg": 0.27,
+          "priceMovePct": 9.13,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-079",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-29",
+          "sentimentAvg": 0.4,
+          "priceMovePct": 8.35,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-080",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-09-29",
+          "sentimentAvg": 0.603,
+          "priceMovePct": 8.16,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-081",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-10-06",
+          "sentimentAvg": -0.119,
+          "priceMovePct": -10.24,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-082",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-10-13",
+          "sentimentAvg": -0.048,
+          "priceMovePct": -6.97,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-083",
+          "token": "ETH",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-10-13",
+          "sentimentAvg": -0.334,
+          "priceMovePct": -6.5,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-084",
+          "token": "SOL",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-10-13",
+          "sentimentAvg": -0.364,
+          "priceMovePct": -4.81,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-085",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-10-20",
+          "sentimentAvg": 0.154,
+          "priceMovePct": 2.76,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-086",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-10-20",
+          "sentimentAvg": 0.183,
+          "priceMovePct": -0.82,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-087",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-10-20",
+          "sentimentAvg": 0.217,
+          "priceMovePct": 3.41,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-088",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-10-27",
+          "sentimentAvg": 0.188,
+          "priceMovePct": -3.9,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-089",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-10-27",
+          "sentimentAvg": 0.675,
+          "priceMovePct": -6.95,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-090",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-10-27",
+          "sentimentAvg": 0.399,
+          "priceMovePct": -6.85,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-091",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-03",
+          "sentimentAvg": -0.005,
+          "priceMovePct": -7.56,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-092",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-03",
+          "sentimentAvg": 0.085,
+          "priceMovePct": -13.01,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-093",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-03",
+          "sentimentAvg": 0.548,
+          "priceMovePct": -15.51,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-094",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-10",
+          "sentimentAvg": 0.382,
+          "priceMovePct": -8.79,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-095",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-10",
+          "sentimentAvg": 1.0,
+          "priceMovePct": -15.02,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-096",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-17",
+          "sentimentAvg": 0.31,
+          "priceMovePct": -10.3,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-097",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-17",
+          "sentimentAvg": 0.875,
+          "priceMovePct": -10.74,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-098",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-17",
+          "sentimentAvg": 0.772,
+          "priceMovePct": -7.18,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-099",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.097,
+          "priceMovePct": 4.68,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-100",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.5,
+          "priceMovePct": 6.84,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-101",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.458,
+          "priceMovePct": 4.0,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-102",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": -0.113,
+          "priceMovePct": -1.28,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-103",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": 0.53,
+          "priceMovePct": 1.55,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-104",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": 0.5,
+          "priceMovePct": -1.76,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-105",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-08",
+          "sentimentAvg": 0.045,
+          "priceMovePct": 2.04,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-106",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-08",
+          "sentimentAvg": 0.096,
+          "priceMovePct": 1.2,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-107",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-08",
+          "sentimentAvg": 0.299,
+          "priceMovePct": 0.1,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-108",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2025-12-15",
+          "sentimentAvg": -0.333,
+          "priceMovePct": 0.13,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-109",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-15",
+          "sentimentAvg": 0.417,
+          "priceMovePct": -2.88,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-110",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-15",
+          "sentimentAvg": 0.148,
+          "priceMovePct": -2.92,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-111",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": -0.205,
+          "priceMovePct": -1.1,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-112",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": 0.182,
+          "priceMovePct": -0.46,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-113",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-09",
+          "sentimentAvg": -0.007,
+          "priceMovePct": 1.28,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-114",
+          "token": "BTC",
+          "sentiment": "bearish",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": -0.205,
+          "priceMovePct": -0.98,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-115",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": 0.182,
+          "priceMovePct": -2.34,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-116",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-10",
+          "sentimentAvg": -0.007,
+          "priceMovePct": 1.24,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-117",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.339,
+          "priceMovePct": -1.07,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-118",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.302,
+          "priceMovePct": 0.49,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-119",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-16",
+          "sentimentAvg": 0.085,
+          "priceMovePct": -0.83,
+          "status": "success"
+        },
+        {
+          "id": "journal-du-coin-120",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.339,
+          "priceMovePct": -0.44,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-121",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.302,
+          "priceMovePct": 0.18,
+          "status": "fail"
+        },
+        {
+          "id": "journal-du-coin-122",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-02-17",
+          "sentimentAvg": 0.085,
+          "priceMovePct": 0.82,
+          "status": "success"
+        }
+      ],
+      "votes": {
+        "trust": 135,
+        "noWay": 157
+      }
+    },
+    {
+      "id": "tokens-invaders",
+      "name": "Tokens Invaders",
+      "channelId": "UCXrsOCJFLteZb8cKOmWWqpA",
+      "subscribers": "45K",
+      "description": "Fundamental and technical analysis focused on altcoin opportunities.",
+      "calls": [
+        {
+          "id": "tokens-invaders-001",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.201,
+          "priceMovePct": 4.68,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-002",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.344,
+          "priceMovePct": 6.84,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-003",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-11-24",
+          "sentimentAvg": 0.317,
+          "priceMovePct": 4.0,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-004",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": 0.108,
+          "priceMovePct": -1.28,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-005",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": 0.851,
+          "priceMovePct": 1.55,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-006",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-01",
+          "sentimentAvg": 0.056,
+          "priceMovePct": -1.76,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-007",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-08",
+          "sentimentAvg": 0.072,
+          "priceMovePct": 1.2,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-008",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-08",
+          "sentimentAvg": 0.126,
+          "priceMovePct": 0.1,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-009",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-08",
+          "sentimentAvg": 0.224,
+          "priceMovePct": 2.04,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-010",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-15",
+          "sentimentAvg": 0.209,
+          "priceMovePct": 0.13,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-011",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-15",
+          "sentimentAvg": 0.002,
+          "priceMovePct": -2.88,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-012",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-15",
+          "sentimentAvg": 0.25,
+          "priceMovePct": -2.92,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-013",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-22",
+          "sentimentAvg": 0.19,
+          "priceMovePct": -0.87,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-014",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-22",
+          "sentimentAvg": 0.5,
+          "priceMovePct": -1.76,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-015",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-22",
+          "sentimentAvg": 0.333,
+          "priceMovePct": -1.1,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-016",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-29",
+          "sentimentAvg": 0.157,
+          "priceMovePct": 3.16,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-017",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2025-12-29",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 6.04,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-018",
+          "token": "SOL",
+          "sentiment": "bullish",
+          "dateOfCall": "2025-12-29",
+          "sentimentAvg": 0.333,
+          "priceMovePct": 6.47,
+          "status": "success"
+        },
+        {
+          "id": "tokens-invaders-019",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-01-05",
+          "sentimentAvg": 0.176,
+          "priceMovePct": -1.02,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-020",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-01-05",
+          "sentimentAvg": 0.7,
+          "priceMovePct": -1.79,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-021",
+          "token": "BTC",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-01-12",
+          "sentimentAvg": 0.058,
+          "priceMovePct": 4.71,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-022",
+          "token": "ETH",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-01-12",
+          "sentimentAvg": 0.188,
+          "priceMovePct": 6.01,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-023",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-01-12",
+          "sentimentAvg": 0.0,
+          "priceMovePct": 3.07,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-024",
+          "token": "BTC",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-01-19",
+          "sentimentAvg": 0.5,
+          "priceMovePct": -4.89,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-025",
+          "token": "ETH",
+          "sentiment": "bullish",
+          "dateOfCall": "2026-01-19",
+          "sentimentAvg": 0.332,
+          "priceMovePct": -10.2,
+          "status": "fail"
+        },
+        {
+          "id": "tokens-invaders-026",
+          "token": "SOL",
+          "sentiment": "neutral",
+          "dateOfCall": "2026-01-19",
+          "sentimentAvg": 0.0,
+          "priceMovePct": -8.33,
+          "status": "fail"
+        }
+      ],
+      "votes": {
+        "trust": 41,
+        "noWay": 46
+      }
+    }
+  ]
+}
