@@ -20,13 +20,13 @@ export default function EmailOptIn() {
 
         <div className="relative max-w-xl mx-auto text-center">
           <p className="text-emerald-accent text-xs font-semibold uppercase tracking-widest mb-3">
-            Free Weekly Report
+            Stop Trading on Noise. Start Trading on Signal.
           </p>
           <h2 className="text-2xl sm:text-3xl font-bold text-white-heading leading-tight">
-            Get the "Alpha Weekly" Report
+            Get the "Alpha Weekly" email
           </h2>
           <p className="text-slate-text mt-3 text-sm leading-relaxed max-w-md mx-auto">
-            Every Sunday, we send you the Top 3 most accurate calls and the Top 3 "Red Flags" detected by our AI. Skip the 50 hours of video watching.
+            Every Sunday, we extract the "Gold" from 50+ hours of video content. Get the 3 highest-conviction calls and the 3 deadliest red flags delivered to your inbox.
           </p>
 
           {submitted ? (
@@ -42,7 +42,7 @@ export default function EmailOptIn() {
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="Enter your pro email..."
+                placeholder="Enter your email..."
                 required
                 className="flex-1 bg-slate-bg border border-slate-border rounded-lg px-4 py-3 text-sm text-white-heading placeholder:text-slate-text/50 focus:outline-none focus:border-emerald-accent transition-colors"
               />
